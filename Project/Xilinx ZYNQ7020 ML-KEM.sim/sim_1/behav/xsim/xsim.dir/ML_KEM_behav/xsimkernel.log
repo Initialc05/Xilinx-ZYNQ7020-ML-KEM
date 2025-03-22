@@ -1,7 +1,0 @@
-Running: xsim.dir/ML_KEM_behav/xsimk.exe -simmode gui -wdb ML_KEM_behav.wdb -simrunnum 0 -socket 56613
-Design successfully loaded
-Design Loading Memory Usage: 10984 KB (Peak: 10984 KB)
-Design Loading CPU Usage: 46 ms
-Simulation completed
-Simulation Memory Usage: 11464 KB (Peak: 11464 KB)
-Simulation CPU Usage: 46 ms

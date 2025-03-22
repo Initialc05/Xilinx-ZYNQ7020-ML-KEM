@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time: 0, a = 0, b = 0, y = 0
+Time: 10000, a = 0, b = 1, y = 0
+Time: 20000, a = 1, b = 0, y = 0
+Time: 30000, a = 1, b = 1, y = 1
+$finish called at time : 40 ns : File "D:/ICIC 2025 Unisoc-3/Xilinx_ZYNQ7020_ML_KEM/Project/Xilinx ZYNQ7020 ML-KEM.srcs/Simulation_Testbench/new/tb_and_gate.v" Line 55
